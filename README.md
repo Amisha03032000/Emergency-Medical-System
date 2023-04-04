@@ -85,6 +85,13 @@ Designed separate modules for business logic and userInterfaces
 DB4O to store objects/instances of classes or business models 
 Followed Object Oriented Principles like Inheritance.
 
+CLASS DIAGRAM:
 
 ![Class](https://user-images.githubusercontent.com/114260916/229664897-e149efa9-a400-4359-9616-449877f7c10b.png)
+
+<br>
+
+UML DIAGRAM:
+
+![UML](https://user-images.githubusercontent.com/114260916/229665007-dcf63d3e-f76c-4453-b39f-eb1ca9105350.jpeg)
 
